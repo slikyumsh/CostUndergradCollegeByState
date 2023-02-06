@@ -1,0 +1,5 @@
+/venv
+/catboost_info
+/data
+/.idea
+/main.py
